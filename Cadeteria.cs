@@ -1,8 +1,11 @@
 public class Cadeteria{
-    private string Nombre;
-    private string Telefono;
+    private string nombre;
+    private string telefono;
     private List<Cadete> listaCadetes;
 
-    public string Nombre1 { get => Nombre; set => Nombre = value; }
-    public string Telefono1 { get => Telefono; set => Telefono = value; }
+    public string Nombre { get => nombre; set => nombre = value; }
+    public string Telefono { get => telefono; set => telefono = value; }
+
+    
+
 }

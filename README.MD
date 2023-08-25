@@ -10,7 +10,9 @@ agregación?
 	Cadeteria:
 		AgregarPedido(cliente, cadete, pedido)
 		VerListadoCadetes()
-		BorrarCliente()
+        CrearPedido()
+        AgregarCadete()
+        BorrarCadete()
 		EliminarCliente()
 		Informe()
 		
@@ -36,7 +38,7 @@ propiedades y métodos deberían ser públicos y cuáles privados.
         publico:
     
     Pedido:
-        
+
 
 *¿Cómo diseñaría los constructores de cada una de las clases?
 
